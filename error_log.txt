@@ -1,0 +1,2 @@
+[2026-04-05 19:23:43] ERROR in fetch_products:Timeout - server took too long to respond
+[2026-04-05 19:23:44] ERROR in lookup_product:HTTPError - 404 Not Found for product ID 999
